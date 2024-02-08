@@ -1,2 +1,2 @@
-nanFROM hello-world:linux
+FROM hello-world:linux
 
